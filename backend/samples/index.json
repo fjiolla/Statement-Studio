@@ -1,0 +1,37 @@
+[
+ {
+  "file": "hdfc_text.pdf",
+  "title": "HDFC Bank \u2014 savings",
+  "tag": "Digital",
+  "kind": "text",
+  "pages": 5
+ },
+ {
+  "file": "sbi_bank_statement.pdf",
+  "title": "State Bank of India \u2014 scanned",
+  "tag": "Scanned \u00b7 10 pages",
+  "kind": "scanned",
+  "pages": 10
+ },
+ {
+  "file": "union_protected.pdf",
+  "title": "Union Bank \u2014 protected",
+  "tag": "Password: 123456",
+  "kind": "protected",
+  "pages": 7
+ },
+ {
+  "file": "induslnd_bank_statement_text.pdf",
+  "title": "IndusInd Bank \u2014 edited PDF",
+  "tag": "Tampered",
+  "kind": "tampered",
+  "pages": 6
+ },
+ {
+  "file": "credit_statement_image.pdf",
+  "title": "Indian Bank \u2014 credit card",
+  "tag": "Scanned card",
+  "kind": "card",
+  "pages": 2
+ }
+]

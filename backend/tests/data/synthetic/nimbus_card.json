@@ -1,0 +1,90 @@
+{
+ "statement_type": "credit_card",
+ "opening_balance": 18420.5,
+ "total_due": 22871.0,
+ "minimum_due": 1143.55,
+ "card_number": "4567 89XX XXXX 1234",
+ "account_holder": "Rohit Kulkarni",
+ "transactions": [
+  {
+   "date": "2025-05-22",
+   "description": "PAYMENT RECEIVED - THANK YOU",
+   "debit": null,
+   "credit": 18420.5,
+   "balance": null,
+   "category": "card_payment"
+  },
+  {
+   "date": "2025-05-24",
+   "description": "MAKEMYTRIP INDIA PVT LTD NEW DELHI",
+   "debit": 12640.0,
+   "credit": null,
+   "balance": null,
+   "category": "travel"
+  },
+  {
+   "date": "2025-05-25",
+   "description": "SWIGGY BANGALORE",
+   "debit": 486.0,
+   "credit": null,
+   "balance": null,
+   "category": "food"
+  },
+  {
+   "date": "2025-05-27",
+   "description": "AMAZON.IN BANGALORE",
+   "debit": 3299.0,
+   "credit": null,
+   "balance": null,
+   "category": "shopping"
+  },
+  {
+   "date": "2025-05-30",
+   "description": "SPOTIFY INDIA MUMBAI",
+   "debit": 119.0,
+   "credit": null,
+   "balance": null,
+   "category": "entertainment"
+  },
+  {
+   "date": "2025-06-02",
+   "description": "HPCL FUEL STATION PUNE",
+   "debit": 2850.0,
+   "credit": null,
+   "balance": null,
+   "category": "fuel"
+  },
+  {
+   "date": "2025-06-04",
+   "description": "AMAZON.IN BANGALORE REFUND",
+   "debit": null,
+   "credit": 899.0,
+   "balance": null,
+   "category": "refund"
+  },
+  {
+   "date": "2025-06-08",
+   "description": "APOLLO PHARMACY PUNE",
+   "debit": 1145.6,
+   "credit": null,
+   "balance": null,
+   "category": "health"
+  },
+  {
+   "date": "2025-06-12",
+   "description": "BOOKMYSHOW MUMBAI",
+   "debit": 920.0,
+   "credit": null,
+   "balance": null,
+   "category": "entertainment"
+  },
+  {
+   "date": "2025-06-15",
+   "description": "BIGBASKET BANGALORE",
+   "debit": 2310.4,
+   "credit": null,
+   "balance": null,
+   "category": "groceries"
+  }
+ ]
+}

@@ -1,0 +1,1290 @@
+[
+ {
+  "text": "IB BILLPAY DR-HDFCPE-545964XXXXXX3563",
+  "is_debit": true,
+  "amount": 1285.98,
+  "statement_type": "bank_account",
+  "label": "card_payment",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "NEFT DR-UBIN0539686-RAJU DUBEY-NETBANK, MUM-N155180555427618-PERSONAL",
+  "is_debit": true,
+  "amount": 5000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "UPI-303702011409044-9307676700@UPI-81551 8551633-OK",
+  "is_debit": false,
+  "amount": 7000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "EMI 4923306 CHQ S49233060051 0618492330 6",
+  "is_debit": true,
+  "amount": 2268.0,
+  "statement_type": "bank_account",
+  "label": "loan",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "NHDF6376325463/SBI CARDS",
+  "is_debit": true,
+  "amount": 2820.0,
+  "statement_type": "bank_account",
+  "label": "card_payment",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "NHDF6385796167/BILLDKVODAFONEINDIAL",
+  "is_debit": true,
+  "amount": 119.18,
+  "statement_type": "bank_account",
+  "label": "utilities",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "ACH D- TP ACH HOME-105909750",
+  "is_debit": true,
+  "amount": 2284.98,
+  "statement_type": "bank_account",
+  "label": "loan",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "NEFT DR-VIJB0005051-PANKAJ KUMAR SINGH-N ETBANK, MUM-N169180566006897-PERSOKNAL",
+  "is_debit": true,
+  "amount": 4000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "NHDF6406143679/BILLDKKOTAKCARDS",
+  "is_debit": true,
+  "amount": 11445.0,
+  "statement_type": "bank_account",
+  "label": "card_payment",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "ACH D- HOMECRINDFINPVTLTD-38005587800106",
+  "is_debit": true,
+  "amount": 1315.0,
+  "statement_type": "bank_account",
+  "label": "loan",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "POS 416021XXXXXX8060 DCSIRELIANCE POS DE BIT",
+  "is_debit": true,
+  "amount": 1760.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "CREDIT INTEREST CAPITALISED",
+  "is_debit": false,
+  "amount": 156.0,
+  "statement_type": "bank_account",
+  "label": "interest",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "MICRO ATM CASH DEP - HDFC THANE MH IN - BNAKMU02",
+  "is_debit": false,
+  "amount": 10000.0,
+  "statement_type": "bank_account",
+  "label": "cash_deposit",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "IMPS-818411585956-ARUNARAVINDRADUBEY-HDF",
+  "is_debit": false,
+  "amount": 3000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "REV-IMPS-818616336097-SUMIT DAS-CORP-XXX XXXXXXXX8925-EMI K LIY",
+  "is_debit": false,
+  "amount": 2000.0,
+  "statement_type": "bank_account",
+  "label": "refund",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "CASH DEP MIRA ROAD",
+  "is_debit": false,
+  "amount": 22500.0,
+  "statement_type": "bank_account",
+  "label": "cash_deposit",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "POS 416021XXXXXX8060 SHREEJI ENTERPRI PO S DEBIT",
+  "is_debit": true,
+  "amount": 399.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "IMPS-820619336344-RAMNAYAN KANOJIA-CORP- XXXXXXXXXXX1052-PERSONAL",
+  "is_debit": true,
+  "amount": 4300.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "IMPS-821120336017-SHIVAM GOND-KKBK-XXXXX X4834-PERSONAL",
+  "is_debit": true,
+  "amount": 4500.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "NWD-416021XXXXXX8060-CCCB0004-THANE",
+  "is_debit": true,
+  "amount": 500.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "NEFT DR-KKBK0001418-SHIVAM GOND-NETBANK, MUM-N223180607585184-PERSONAL",
+  "is_debit": true,
+  "amount": 1500.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "051030821081813264- CBDT TAX",
+  "is_debit": true,
+  "amount": 1140.0,
+  "statement_type": "bank_account",
+  "label": "tax",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "IMPS-823317220801-SHIVAM GOND-HDFC-XXXXX X4834-MB: REVERSE MONEY TANSFER",
+  "is_debit": false,
+  "amount": 1200.0,
+  "statement_type": "bank_account",
+  "label": "refund",
+  "source": "hdfc_t"
+ },
+ {
+  "text": "NFS/CASH WDL/328009020022/06094066/ALWA R /07-10",
+  "is_debit": true,
+  "amount": 2500.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "TRANSFER FROM SALARY",
+  "is_debit": false,
+  "amount": 25000.0,
+  "statement_type": "bank_account",
+  "label": "salary",
+  "source": "icici_"
+ },
+ {
+  "text": "VPS/SUVIDHA STO/202310100031/328219139980/AL WAR",
+  "is_debit": true,
+  "amount": 240.0,
+  "statement_type": "bank_account",
+  "label": "groceries",
+  "source": "icici_"
+ },
+ {
+  "text": "MMT/IMPS/328219701406/PENNYDR OP/NorthernAr/Axis Ba",
+  "is_debit": false,
+  "amount": 1.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "icici_"
+ },
+ {
+  "text": "MMT/IMPS/328219395657/FAST96615 926818/NORTHERN A/F",
+  "is_debit": false,
+  "amount": 26952.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/CASH WDL/328316980983/DELON006/Gurga on /10-10",
+  "is_debit": true,
+  "amount": 10024.78,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/CASH WDL/328812011841/S1ANAW03/ALW AR /15-10",
+  "is_debit": true,
+  "amount": 10024.78,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/CASH WDL RVSL/328812011841/S1ANAW03/ALW AR /",
+  "is_debit": false,
+  "amount": 10024.78,
+  "statement_type": "bank_account",
+  "label": "refund",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/CASH WDL/328812009175/PJAIT030/JAIPUR /15-10",
+  "is_debit": true,
+  "amount": 5024.78,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/CASH WDL/329620674861/NM001300/ALWA R /23-10",
+  "is_debit": true,
+  "amount": 5024.78,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "MMT/IMPS/329812889534/Kissht Fund Tra/SI CREVA C/Y",
+  "is_debit": false,
+  "amount": 27309.6,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "icici_"
+ },
+ {
+  "text": "ATM/S1VDK070/CASH WDL/27-10-23",
+  "is_debit": true,
+  "amount": 20000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "TRANSFER FROM INCENTIVE",
+  "is_debit": false,
+  "amount": 2500.0,
+  "statement_type": "bank_account",
+  "label": "salary",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/CASH WDL/330619385903/RJBW9097/Alwar /02-11",
+  "is_debit": true,
+  "amount": 5000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "ATM/S1CNI116/CASH WDL/08-11-23",
+  "is_debit": true,
+  "amount": 10000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "CAM/02851HHR/CASH WDL/14-11-23",
+  "is_debit": true,
+  "amount": 14000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/CASH WDL/331911503952/PA008702/ALWA R /15-11",
+  "is_debit": true,
+  "amount": 6000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/IRJMA053/Bal Inq/17-11-23/Fee Rs8.50 GST Rs1.5",
+  "is_debit": true,
+  "amount": 10.03,
+  "statement_type": "bank_account",
+  "label": "charges",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/CASH WDL/332113326621/IOBD6596/ALWA R /17-11",
+  "is_debit": true,
+  "amount": 10024.78,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "VPS/CLARENS HOT/202311181211/332206558697/G URGAON",
+  "is_debit": true,
+  "amount": 128.0,
+  "statement_type": "bank_account",
+  "label": "food",
+  "source": "icici_"
+ },
+ {
+  "text": "IPS/BEST FUEL S/202311181655/000000005292/DELH I",
+  "is_debit": true,
+  "amount": 1200.0,
+  "statement_type": "bank_account",
+  "label": "fuel",
+  "source": "icici_"
+ },
+ {
+  "text": "MMT/IMPS/334413602642/KisshtFund Trans/POONAWALLA/Y",
+  "is_debit": false,
+  "amount": 27309.6,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "icici_"
+ },
+ {
+  "text": "CCXX6006_DM_VIKAS SAINI",
+  "is_debit": true,
+  "amount": 5970.0,
+  "statement_type": "bank_account",
+  "label": "card_payment",
+  "source": "icici_"
+ },
+ {
+  "text": "ATM/SACWL018/CASH WDL/14-12-23",
+  "is_debit": true,
+  "amount": 20000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "028501527472:Int.Pd:30-09-2023 to 29-12-2023",
+  "is_debit": false,
+  "amount": 42.0,
+  "statement_type": "bank_account",
+  "label": "interest",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/CASH WDL/400419342937/P1051220/ALWA R /04-01",
+  "is_debit": true,
+  "amount": 2500.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "NFS/CASH WDL/401016693701/HP001300/ALWA R /10-01",
+  "is_debit": true,
+  "amount": 5000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "icici_"
+ },
+ {
+  "text": "NPUNBH22092237948PUNB0872200 SILVER TUCH TECHNOLOGIES PVT PUNBH2209223794825589483460",
+  "is_debit": false,
+  "amount": 75148.0,
+  "statement_type": "bank_account",
+  "label": "salary",
+  "source": "indusl"
+ },
+ {
+  "text": "UPI209216896553CRDEVKPYTM9469 54655paytmNA 918946954655PYTM0123456DEVKI NANDAN JANGID OthPSPNA",
+  "is_debit": false,
+  "amount": 20500.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "FT TO INDUSIND ACCOUNTNG2QIKCOYOR110007253 7836",
+  "is_debit": true,
+  "amount": 34800.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "IMPSP2A2093139856779761197420 50000007 INWD4800INETOne97 Communications 201000581287",
+  "is_debit": false,
+  "amount": 9401.53,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "ACH DEBITTXKS3745210BDDCB Bank ACH NORMAL 306 CREDIT 20220404",
+  "is_debit": true,
+  "amount": 8105.0,
+  "statement_type": "bank_account",
+  "label": "loan",
+  "source": "indusl"
+ },
+ {
+  "text": "SHUBHLAXMI AGENCIES Zone Serial 4886",
+  "is_debit": true,
+  "amount": 10202.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "UPI209448172949CRPaytPYTMpayou tspaytmBW2022 19742050000007PYTM0123456Payt m OthPSPBW202204042012148201010",
+  "is_debit": false,
+  "amount": 344.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "CHEQUE DEPOSIT407920SBINSERVICE BRANCH",
+  "is_debit": false,
+  "amount": 39504.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "CHEQUE DEPOSIT329ICICSERVICE BRANCH",
+  "is_debit": false,
+  "amount": 4070.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "NINDBN08047984504HDFCshri Laxmi corporatio nRemarks INDBN08047984504",
+  "is_debit": true,
+  "amount": 9794.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "NINDBN08047984633PUNBAMG NATIONAL HANDLOOM Remarks INDBN08047984633",
+  "is_debit": true,
+  "amount": 20000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "NINDBN10085411847HDFCDevki Nandan jangid Remarks INDBN10085411847",
+  "is_debit": true,
+  "amount": 18100.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "NPYTM222236482183PYTM0123456 ONE97 COMMUNICATION S LIMITEDNANA PYTM22223648218325929876270",
+  "is_debit": false,
+  "amount": 1175.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "CHEQUE DEPOSIT1481HDFCJAIPUR V",
+  "is_debit": false,
+  "amount": 1733.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "SHRI NARAYAN DAS MEDIA Zone Serial 2334",
+  "is_debit": true,
+  "amount": 1686.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "IMPSP2A223117632356HDFC INDIMOB77573215 201000581287",
+  "is_debit": true,
+  "amount": 1500.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "IMPSP2A223216860382ICIC INDIMOB77964960 201000581287",
+  "is_debit": true,
+  "amount": 850.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "NSBIN422235647237SBIN0032380P URPLECAP INTERNATI ONALATTNINBPayment towards InvoiceBill SBIN42223564723725955081250",
+  "is_debit": false,
+  "amount": 2500.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "INDUSIND CREDIT CARD PAYMENTXXXXXXXXXXXX8009 7131B35VFFFH201000581287",
+  "is_debit": true,
+  "amount": 4186.0,
+  "statement_type": "bank_account",
+  "label": "card_payment",
+  "source": "indusl"
+ },
+ {
+  "text": "IMPSP2A224020970702HDFCDevki Nandan jangid INDIMOB81641675 201000581287",
+  "is_debit": true,
+  "amount": 26000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "CASH DEPOSIT BRANCH",
+  "is_debit": false,
+  "amount": 50000.0,
+  "statement_type": "bank_account",
+  "label": "cash_deposit",
+  "source": "indusl"
+ },
+ {
+  "text": "To Non Maintenance charges Aug 2022 ValueDate31AUG22",
+  "is_debit": true,
+  "amount": 767.0,
+  "statement_type": "bank_account",
+  "label": "charges",
+  "source": "indusl"
+ },
+ {
+  "text": "CHEQUE DEPOSIT189KKBKGround Floor A 8 Central S",
+  "is_debit": false,
+  "amount": 4550.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "IMPSP2A226312392405ICICBIWAL AND COMPANY INDIMOB92067933 201000581287",
+  "is_debit": true,
+  "amount": 2548.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "IMPSP2A226315460156HDFCTejendr a singh katewa INDIMOB92171747 201000581287",
+  "is_debit": true,
+  "amount": 29380.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "indusl"
+ },
+ {
+  "text": "UPI226368481738CRARVISBIN9428 835968axlPayme 00000061036672058SBIN0010080A RVIND KUMAR JANGIR OthPSPPayment from PhonePe",
+  "is_debit": false,
+  "amount": 10000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "NSBIN222265695387SBIN0032385R TS PRODUCTS ATTNINBCast SBIN22226569538725104031752",
+  "is_debit": false,
+  "amount": 3584.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "indusl"
+ },
+ {
+  "text": "To Card Annual Charge 4053382100138270 ValueDate21SEP22",
+  "is_debit": true,
+  "amount": 1768.82,
+  "statement_type": "bank_account",
+  "label": "charges",
+  "source": "indusl"
+ },
+ {
+  "text": "MCC ISSUE CHARGES-- 38976288",
+  "is_debit": true,
+  "amount": 88.5,
+  "statement_type": "bank_account",
+  "label": "charges",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "TO TRANSFER-HOUSING LOAN CLOSURE",
+  "is_debit": true,
+  "amount": 32652.0,
+  "statement_type": "bank_account",
+  "label": "loan",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "TO TRANSFER-EDUCATION LOAN CLOSURE",
+  "is_debit": true,
+  "amount": 21739.0,
+  "statement_type": "bank_account",
+  "label": "loan",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "BY TRANSFER-INB IMPS812923125449/22222222 22/XX0317/Remitly Tr",
+  "is_debit": false,
+  "amount": 70006.68,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WITHDRAWAL TRANSFER",
+  "is_debit": true,
+  "amount": 10000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "BY TRANSFER-INB payback",
+  "is_debit": false,
+  "amount": 40000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "TO TRANSFER-PMSBY RENEWAL SBISB03606201814523679117",
+  "is_debit": true,
+  "amount": 12.0,
+  "statement_type": "bank_account",
+  "label": "insurance",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "CASH CHEQUE-CASH WITHDRAWAL BY CHEQUE- 367951",
+  "is_debit": true,
+  "amount": 35000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "CREDIT INTEREST",
+  "is_debit": false,
+  "amount": 820.0,
+  "statement_type": "bank_account",
+  "label": "interest",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "TO CLEARING-CIT BHARTI AIRTEL AP POSTPAI-323947",
+  "is_debit": true,
+  "amount": 2714.0,
+  "statement_type": "bank_account",
+  "label": "utilities",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "TO DEBIT THROUGH CHEQUE-SBI M VENKATESWARA REDDY 30902590252-367952",
+  "is_debit": true,
+  "amount": 10000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "CHEQUE WDL-WITHDRAWAL TRANSFER BY CHEQUE- 367955",
+  "is_debit": true,
+  "amount": 200000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "CHEQUE WDL- CHQ TR- 367956",
+  "is_debit": true,
+  "amount": 42000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "BULK POSTING-18077478825 ITD TAX REFUND AY 18-19 PAN AFWPM8591B",
+  "is_debit": false,
+  "amount": 25590.0,
+  "statement_type": "bank_account",
+  "label": "refund",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "BY TRANSFER-RTGS UTR NO: YESBR52018100558140100- 2221 boles st",
+  "is_debit": false,
+  "amount": 362700.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "BULK POSTING-ACHCr UBIN00072000013390 BHARATSANCHARN",
+  "is_debit": false,
+  "amount": 2454.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "BY TRANSFER-INB Gift to relatives / Friends",
+  "is_debit": false,
+  "amount": 150000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "UPIAB/124540208975/CR/NUSAI R A/BARB/nusair714@okax Statement Legends",
+  "is_debit": false,
+  "amount": 3500.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAB/124601242968/CR/MUHA MMED/UBIN/havakh561@okhd",
+  "is_debit": false,
+  "amount": 4000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAB/124657829040/CR/MUHA MMAD/UBIN/thaqwasuhail@o",
+  "is_debit": false,
+  "amount": 1600.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/124611861260/DR/ABDUL LA/CNRB/0749101056362@",
+  "is_debit": true,
+  "amount": 4000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/124760212768/DR/RAS HYPE/UTIB/9961353490@okb",
+  "is_debit": true,
+  "amount": 10.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAB/124875921453/CR/SNEHA K /FDRL/snehasponnu05@",
+  "is_debit": false,
+  "amount": 80.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/125236298892/DR/NUSAI R A/BARB/nusair714@okax",
+  "is_debit": true,
+  "amount": 3000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "union_"
+ },
+ {
+  "text": "NEFT:NOUSHAD THAYAL SIBLN21253343747",
+  "is_debit": false,
+  "amount": 4000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAB/125352502786/CR/AZARU DEE/CNRB/azharthaqwa55",
+  "is_debit": false,
+  "amount": 100.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/125459851530/DR/MUHA MMAD/UBIN/thaqwasuhail@o",
+  "is_debit": true,
+  "amount": 4000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAB/125493767641/CR/GOOGL EPA/UTIB/goog-payment@o",
+  "is_debit": false,
+  "amount": 2.0,
+  "statement_type": "bank_account",
+  "label": "refund",
+  "source": "union_"
+ },
+ {
+  "text": "SMS Charges for September,2021 Quarter",
+  "is_debit": true,
+  "amount": 17.7,
+  "statement_type": "bank_account",
+  "label": "charges",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/125467227077/DR/AMJAD KO/CNRB/amjadkc2000@ok",
+  "is_debit": true,
+  "amount": 15000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAB/125631987610/CR/SUBAI R M/UTIB/racezubi@okaxi",
+  "is_debit": false,
+  "amount": 2500.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAB/125683142938/CR/SHANI BA /SIBL/shanishazushef",
+  "is_debit": false,
+  "amount": 3000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/125684332154/DR/SHAJA HAN/CNRB/shajahanmvshaj",
+  "is_debit": true,
+  "amount": 3000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/125685548797/DR/Paytm Re/PYTM/paybil3066@pay",
+  "is_debit": true,
+  "amount": 399.0,
+  "statement_type": "bank_account",
+  "label": "utilities",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/126291079158/DR/Abdul La/PYTM/919847844778@P",
+  "is_debit": true,
+  "amount": 6000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/126266076505/DR/RAHEE S /SBIN/raheestkthaqwa",
+  "is_debit": true,
+  "amount": 1760.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/126490712978/DR/bharatpe /FDRL/bharatpe.90503",
+  "is_debit": true,
+  "amount": 60.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/126503145295/DR/SUJITH K/KLGB/q10810424@ybl/",
+  "is_debit": true,
+  "amount": 60.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/126612308721/DR/KUNH ABDU/CNRB/abdullarx94@ok",
+  "is_debit": true,
+  "amount": 1400.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/126730572308/DR/SREENI NU/FDRL/sreeninu2@okax",
+  "is_debit": true,
+  "amount": 180.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/126732124421/DR/SUJAN APA/UBIN/q51970977@ybl/",
+  "is_debit": true,
+  "amount": 500.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAB/126886549865/CR/REHMA TH /CNRB/ayshathudujana",
+  "is_debit": false,
+  "amount": 10000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "union_"
+ },
+ {
+  "text": "UPIAR/126845623691/DR/OJUS GRO/SBIN/q41115939@ybl/",
+  "is_debit": true,
+  "amount": 198.0,
+  "statement_type": "bank_account",
+  "label": "groceries",
+  "source": "union_"
+ },
+ {
+  "text": "WDL TFR UPI/DR/253135370887/DOMINGO S/BKID/silvadomni/Paym 0097695162091 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 100.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/DR/866916663384/SHARVAN /DCBL/sharvansin/Paym 0097695162091 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 55.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "ATM WDL ATM CASH 8682 SBIMIDTOWNCURCHOREM SOUTH",
+  "is_debit": true,
+  "amount": 2000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/DR/795627633246/Mr MAHAD/CBIN/naikdeepak/Paym 0097696162090 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 1000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "DEP TFR UPI/CR/057425471180/RUTVIK S/SRCB/7263880718/Paym 0097732162091 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": false,
+  "amount": 5000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "ATMWDL ATM CASH 521519013047 INDUSIND BANK LIMITED CURC",
+  "is_debit": true,
+  "amount": 5000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "ATMWDL ATMCASH 9012 SBIMIDTOWN CURCHOREM SOUTH",
+  "is_debit": true,
+  "amount": 1000.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "DEP TFR IMPS/522518038178/IDF-XX225- REFYNE F/REFYNEFIN 0098313162099 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": false,
+  "amount": 3590.36,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "ATMWDL ATMCASH 522519536498 CURCHOREM CURC",
+  "is_debit": true,
+  "amount": 1500.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "ATM WDL ATM CASH 522614536690 CURCHOREM CURC",
+  "is_debit": true,
+  "amount": 500.0,
+  "statement_type": "bank_account",
+  "label": "cash_withdrawal",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "UPI/DR/349787279274/JESVIN W/CNRB/1244168290/Pay 0097694162092 AT 00529 SANVORDEM-CURCHOREM(GOA) WDL TFR",
+  "is_debit": true,
+  "amount": 70.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "UPI/DR/670748262465/RUTVIK S/HDFC/7263880718/Paym 0097694162092 AT 00529 SANVORDEM-CURCHOREM(GOA) WDL TFR",
+  "is_debit": true,
+  "amount": 500.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "UPI/DR/829617605712/DOMINGO S/YESB/paytmqr6fd/Paym 0097695162091 AT 00529 SANVORDEM-CURCHOREM(GOA) WDL TFR",
+  "is_debit": true,
+  "amount": 130.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "UPI/DR/795628329054/Mr MAHAD/CBIN/naikdeepak/Paym 0097696162090 AT 00529 SANVORDEM-CURCHOREM(GOA) WDL TFR",
+  "is_debit": true,
+  "amount": 10000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "UPI/CR/112345528890/RUTVIK S/SRCB/7263880718/Paym 0097732162091 AT 00529 SANVORDEM-CURCHOREM(GOA) WDL TFR",
+  "is_debit": false,
+  "amount": 100.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/CR/293982389636/RUTVIK S/HDFC/7263880718/Paym 0097692162094 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": false,
+  "amount": 5000.0,
+  "statement_type": "bank_account",
+  "label": "transfer_in",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/DR/887158398147/POOJA SE/CNRB/3206052220/Paym 0097692162094 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 338.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/DR/405093563384/Rutvik S/SBIN/rutvikgaon/Paym 0097695162091 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 300.0,
+  "statement_type": "bank_account",
+  "label": "transfer_out",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/DR/170110192204/HARSHAD /YESB/paytmqr281/Paym 0097696162090 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 270.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "DEP TFR NEFT*CR*SALARYFORTHE MONTH OF AUG 2025*0099509044300 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": false,
+  "amount": 27963.0,
+  "statement_type": "bank_account",
+  "label": "salary",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/DR/089178904321/PhonePe/Y ESB/BBPSBP@ybI/Payme 0097691162095AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 203.0,
+  "statement_type": "bank_account",
+  "label": "utilities",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/DR/731615749472/Khansab /YESB/paytmqr5vx/Paym 0097692162094 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 1563.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/DR/266880668611/RESHMA R/YESB/Q453176192/Paym 0097693162093 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 1070.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/DR/693649052823/Mr SADAN/YESB/Q287730799/Paym 0097693162093 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 12250.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "INTEREST CREDIT",
+  "is_debit": false,
+  "amount": 16.0,
+  "statement_type": "bank_account",
+  "label": "interest",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "TO INTEREST",
+  "is_debit": true,
+  "amount": 1.0,
+  "statement_type": "bank_account",
+  "label": "charges",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "WDL TFR UPI/DR/566429397075/M_S_ABDU /YESB/paytmqr281/Paym 0097691162095 AT 00529 SANVORDEM-CURCHOREM(GOA)",
+  "is_debit": true,
+  "amount": 3464.0,
+  "statement_type": "bank_account",
+  "label": "shopping",
+  "source": "sbi_ba"
+ },
+ {
+  "text": "CROSS CURRENCY FEE",
+  "is_debit": true,
+  "amount": 67.17,
+  "statement_type": "credit_card",
+  "label": "charges",
+  "source": "credit"
+ },
+ {
+  "text": "PURCHASE- 026970 - SENDINBLUE SAS",
+  "is_debit": true,
+  "amount": 2239.0,
+  "statement_type": "credit_card",
+  "label": "entertainment",
+  "source": "credit"
+ },
+ {
+  "text": "GST - GOODS AND SERVICES TAX ON CHARGES",
+  "is_debit": true,
+  "amount": 12.09,
+  "statement_type": "credit_card",
+  "label": "charges",
+  "source": "credit"
+ },
+ {
+  "text": "PAYTM NOIDA",
+  "is_debit": true,
+  "amount": 5217.5,
+  "statement_type": "credit_card",
+  "label": "wallet",
+  "source": "hdfc_c"
+ },
+ {
+  "text": "PAYTM ECOMMERCE NOIDA",
+  "is_debit": true,
+  "amount": 2.0,
+  "statement_type": "credit_card",
+  "label": "wallet",
+  "source": "hdfc_c"
+ },
+ {
+  "text": "MAKEMYTRIP INDIA PVT LTNEW DELHI",
+  "is_debit": true,
+  "amount": 2358.0,
+  "statement_type": "credit_card",
+  "label": "travel",
+  "source": "hdfc_c"
+ },
+ {
+  "text": "PAYTM ECOMMERCE NOIDA",
+  "is_debit": false,
+  "amount": 2.0,
+  "statement_type": "credit_card",
+  "label": "refund",
+  "source": "hdfc_c"
+ },
+ {
+  "text": "ONE MOBIKWIK GURGAON",
+  "is_debit": true,
+  "amount": 5125.0,
+  "statement_type": "credit_card",
+  "label": "wallet",
+  "source": "hdfc_c"
+ },
+ {
+  "text": "PAYTM BUS NOIDA",
+  "is_debit": true,
+  "amount": 2730.0,
+  "statement_type": "credit_card",
+  "label": "travel",
+  "source": "hdfc_c"
+ },
+ {
+  "text": "ONE MOBIWIK SYSTEM PVT LTGURGAON",
+  "is_debit": true,
+  "amount": 1000.0,
+  "statement_type": "credit_card",
+  "label": "wallet",
+  "source": "hdfc_c"
+ },
+ {
+  "text": "OVERLIMIT FEE (Ref# 19999999980228999789990)",
+  "is_debit": true,
+  "amount": 550.0,
+  "statement_type": "credit_card",
+  "label": "charges",
+  "source": "hdfc_c"
+ },
+ {
+  "text": "IGST-VPS2306075351925-RATE 18.0 -08 (Ref# 19999999980228999789990)",
+  "is_debit": true,
+  "amount": 99.0,
+  "statement_type": "credit_card",
+  "label": "charges",
+  "source": "hdfc_c"
+ },
+ {
+  "text": "MOBIKWIKUPI Chennai (Ref# VT230620074000770000141)",
+  "is_debit": true,
+  "amount": 400.0,
+  "statement_type": "credit_card",
+  "label": "wallet",
+  "source": "hdfc_c"
+ }
+]

@@ -1,0 +1,44 @@
+{
+  "algorithm": "TF-IDF (word 1\u20132-grams + char 2\u20135-grams) \u2192 multinomial logistic regression",
+  "trained_at": "2026-11-04T10:57:37Z",
+  "training_examples": 24000,
+  "user_corrections": 0,
+  "classes": [
+    "card_payment",
+    "cash_deposit",
+    "cash_withdrawal",
+    "charges",
+    "education",
+    "entertainment",
+    "food",
+    "fuel",
+    "groceries",
+    "health",
+    "insurance",
+    "interest",
+    "investment",
+    "loan",
+    "refund",
+    "rent",
+    "salary",
+    "shopping",
+    "tax",
+    "transfer_in",
+    "transfer_out",
+    "travel",
+    "utilities",
+    "wallet"
+  ],
+  "holdout": {
+    "description": "Synthetic narrations built from person names and business stems never seen in training",
+    "examples": 4000,
+    "accuracy": 0.8982,
+    "macro_f1": 0.9055
+  },
+  "train_seconds": 11.7,
+  "gold": {
+    "description": "Hand-labelled narrations from real sample statements (model only, no rules)",
+    "examples": 161,
+    "accuracy": 0.7702
+  }
+}

@@ -1,0 +1,159 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------ tokens
+   "Ledger" theme: warm paper with bottle-green accents. Light only. */
+:root {
+  color-scheme: light;
+  --bg: #f5f3ee;
+  --surface: #fffdf8;
+  --surface-2: #f0eee7;
+  --surface-3: #e7e4db;
+  --border: rgba(30, 42, 34, 0.1);
+  --border-strong: rgba(30, 42, 34, 0.18);
+  --text: #15211b;
+  --text-2: #4d5a52;
+  --muted: #858f88;
+  --accent: #1f6b4c;
+  --accent-soft: rgba(31, 107, 76, 0.09);
+  --accent-ink: #1a5c41;
+  --primary: #1d4d39;
+  --primary-ink: #f5f3ee;
+  --pos: #17875f;
+  --pos-soft: rgba(23, 135, 95, 0.09);
+  --neg: #a1561f;
+  --neg-soft: rgba(161, 86, 31, 0.08);
+  --warn: #9a6a00;
+  --warn-soft: rgba(201, 150, 20, 0.13);
+  --crit: #b8392f;
+  --crit-soft: rgba(184, 57, 47, 0.08);
+  --good: #17875f;
+  /* charts — validated with dataviz validate_palette.js on #fffdf8 */
+  --series-in: #17875f;
+  --series-out: #b9852b;
+  --grid: #ebe8e0;
+  --axis: #cfcbc0;
+  --seq-0: #efede6;
+  --seq-1: #d3e8db;
+  --seq-2: #a8d2b9;
+  --seq-3: #73b493;
+  --seq-4: #3f9370;
+  --seq-5: #1f7352;
+  --seq-6: #12503a;
+  --shadow-sm: none;
+  --shadow-md: none;
+  --shadow-lg: 0 16px 40px -16px rgba(20, 33, 27, 0.25), 0 0 0 1px rgba(20, 33, 27, 0.06);
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-line: var(--border);
+  --color-line-strong: var(--border-strong);
+  --color-ink: var(--text);
+  --color-ink-2: var(--text-2);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-ink: var(--accent-ink);
+  --color-primary: var(--primary);
+  --color-primary-ink: var(--primary-ink);
+  --color-pos: var(--pos);
+  --color-pos-soft: var(--pos-soft);
+  --color-neg: var(--neg);
+  --color-neg-soft: var(--neg-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-crit: var(--crit);
+  --color-crit-soft: var(--crit-soft);
+  --font-sans: var(--font-geist-sans), system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, "SF Mono", monospace;
+  --shadow-card: var(--shadow-md);
+  --shadow-pop: var(--shadow-lg);
+}
+
+/* ------------------------------------------------------------------ base */
+html,
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+body {
+  font-feature-settings: "cv11", "ss01";
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+::selection {
+  background: var(--accent-soft);
+}
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+/* text fields show focus on their wrapper (focus-within border), not a second inner ring */
+input:focus-visible,
+textarea:focus-visible {
+  outline: none;
+}
+/* keep browser autofill from painting fields yellow */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+  -webkit-text-fill-color: var(--text);
+  -webkit-box-shadow: 0 0 0 1000px var(--surface) inset;
+  caret-color: var(--text);
+  transition: background-color 9999s ease-out 0s;
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+}
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+.brand-mark {
+  display: inline-block;
+  background: currentColor;
+  -webkit-mask: url(/brand.png) center / contain no-repeat;
+  mask: url(/brand.png) center / contain no-repeat;
+}
+
+.shimmer {
+  background: linear-gradient(90deg, transparent, color-mix(in oklab, var(--text) 6%, transparent), transparent);
+  background-size: 200% 100%;
+  animation: shimmer 1.6s ease-in-out infinite;
+}
+@keyframes shimmer {
+  from {
+    background-position: 150% 0;
+  }
+  to {
+    background-position: -50% 0;
+  }
+}
+
+.scroll-thin {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* react-pdf text/annotation layers are not needed */
+.react-pdf__Page__textContent,
+.react-pdf__Page__annotations {
+  display: none;
+}

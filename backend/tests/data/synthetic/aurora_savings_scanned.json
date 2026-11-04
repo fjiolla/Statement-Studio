@@ -1,0 +1,386 @@
+{
+ "statement_type": "bank_account",
+ "opening_balance": 48250.75,
+ "closing_balance": 164561.62,
+ "account_number": "50200012345678",
+ "ifsc": "AURB0001234",
+ "account_holder": "Ms. Priya Venkataraman",
+ "transactions": [
+  {
+   "date": "2025-04-01",
+   "description": "NEFT CR-CITI0000001-ORBITAL SYSTEMS PVT LTD-SALARY APR 2025",
+   "debit": null,
+   "credit": 92500.0,
+   "balance": 140750.75,
+   "category": "salary"
+  },
+  {
+   "date": "2025-04-01",
+   "description": "POS 512345XXXXXX4321 AMAZON SELLER SERVICES BANGALORE",
+   "debit": 5949.54,
+   "credit": null,
+   "balance": 134801.21,
+   "category": "shopping"
+  },
+  {
+   "date": "2025-04-02",
+   "description": "UPI/DR/398259791907/RAMESH KUMAR/SBIN/rameshk@oksbi/Rent Apr",
+   "debit": 22000.0,
+   "credit": null,
+   "balance": 112801.21,
+   "category": "transfer_out"
+  },
+  {
+   "date": "2025-04-05",
+   "description": "ACH D- BRIGHTPATH FINANCE LTD-4833788762",
+   "debit": 8450.0,
+   "credit": null,
+   "balance": 104351.21,
+   "category": "loan"
+  },
+  {
+   "date": "2025-04-05",
+   "description": "IMPS-869819846346-ANANYA RAO-HDFC-XXXXXXX4848-DINNER SPLIT",
+   "debit": 1200.0,
+   "credit": null,
+   "balance": 103151.21,
+   "category": "transfer_out"
+  },
+  {
+   "date": "2025-04-07",
+   "description": "ACH D- KUVERA MUTUAL FUND SIP-328601290",
+   "debit": 5000.0,
+   "credit": null,
+   "balance": 98151.21,
+   "category": "investment"
+  },
+  {
+   "date": "2025-04-09",
+   "description": "POS 512345XXXXXX4321 NETFLIX.COM MUMBAI",
+   "debit": 649.0,
+   "credit": null,
+   "balance": 97502.21,
+   "category": "entertainment"
+  },
+  {
+   "date": "2025-04-09",
+   "description": "POS 512345XXXXXX4321 INDIAN OIL PETROL PUMP ANDHERI",
+   "debit": 3197.47,
+   "credit": null,
+   "balance": 94304.74,
+   "category": "fuel"
+  },
+  {
+   "date": "2025-04-10",
+   "description": "UPI/DR/980364942055/SWIGGY/YESB/swiggy@ybl/Payment for order",
+   "debit": 457.35,
+   "credit": null,
+   "balance": 93847.39,
+   "category": "food"
+  },
+  {
+   "date": "2025-04-11",
+   "description": "BIL/BPAY/404796669725/TATA POWER MUMBAI/ELECTRICITY",
+   "debit": 1516.95,
+   "credit": null,
+   "balance": 92330.44,
+   "category": "utilities"
+  },
+  {
+   "date": "2025-04-11",
+   "description": "POS 512345XXXXXX4321 INDIAN OIL PETROL PUMP ANDHERI",
+   "debit": 3067.2,
+   "credit": null,
+   "balance": 89263.24,
+   "category": "fuel"
+  },
+  {
+   "date": "2025-04-14",
+   "description": "ATM WDL ATM CASH 2734 ANDHERI EAST MUMBAI",
+   "debit": 5000.0,
+   "credit": null,
+   "balance": 84263.24,
+   "category": "cash_withdrawal"
+  },
+  {
+   "date": "2025-04-16",
+   "description": "UPI/DR/620466109906/SWIGGY/YESB/swiggy@ybl/Payment for order",
+   "debit": 733.2,
+   "credit": null,
+   "balance": 83530.04,
+   "category": "food"
+  },
+  {
+   "date": "2025-04-22",
+   "description": "UPI/DR/589913944117/UBER INDIA/UTIB/uber.rides@axisbank/Trip",
+   "debit": 619.67,
+   "credit": null,
+   "balance": 82910.37,
+   "category": "travel"
+  },
+  {
+   "date": "2025-04-25",
+   "description": "UPI/DR/468695896935/UBER INDIA/UTIB/uber.rides@axisbank/Trip",
+   "debit": 525.09,
+   "credit": null,
+   "balance": 82385.28,
+   "category": "travel"
+  },
+  {
+   "date": "2025-05-01",
+   "description": "NEFT CR-CITI0000001-ORBITAL SYSTEMS PVT LTD-SALARY MAY 2025",
+   "debit": null,
+   "credit": 92500.0,
+   "balance": 174885.28,
+   "category": "salary"
+  },
+  {
+   "date": "2025-05-02",
+   "description": "UPI/DR/069506992057/RAMESH KUMAR/SBIN/rameshk@oksbi/Rent May",
+   "debit": 22000.0,
+   "credit": null,
+   "balance": 152885.28,
+   "category": "transfer_out"
+  },
+  {
+   "date": "2025-05-05",
+   "description": "ACH D- BRIGHTPATH FINANCE LTD-5594709005",
+   "debit": 8450.0,
+   "credit": null,
+   "balance": 144435.28,
+   "category": "loan"
+  },
+  {
+   "date": "2025-05-07",
+   "description": "ACH D- KUVERA MUTUAL FUND SIP-474995252",
+   "debit": 5000.0,
+   "credit": null,
+   "balance": 139435.28,
+   "category": "investment"
+  },
+  {
+   "date": "2025-05-09",
+   "description": "POS 512345XXXXXX4321 NETFLIX.COM MUMBAI",
+   "debit": 649.0,
+   "credit": null,
+   "balance": 138786.28,
+   "category": "entertainment"
+  },
+  {
+   "date": "2025-05-11",
+   "description": "BIL/BPAY/559446109248/TATA POWER MUMBAI/ELECTRICITY",
+   "debit": 1667.05,
+   "credit": null,
+   "balance": 137119.23,
+   "category": "utilities"
+  },
+  {
+   "date": "2025-05-14",
+   "description": "ATM WDL ATM CASH 4352 ANDHERI EAST MUMBAI",
+   "debit": 5000.0,
+   "credit": null,
+   "balance": 132119.23,
+   "category": "cash_withdrawal"
+  },
+  {
+   "date": "2025-05-14",
+   "description": "POS 512345XXXXXX4321 INDIAN OIL PETROL PUMP ANDHERI",
+   "debit": 3175.79,
+   "credit": null,
+   "balance": 128943.44,
+   "category": "fuel"
+  },
+  {
+   "date": "2025-05-14",
+   "description": "POS 512345XXXXXX4321 INDIAN OIL PETROL PUMP ANDHERI",
+   "debit": 1522.35,
+   "credit": null,
+   "balance": 127421.09,
+   "category": "fuel"
+  },
+  {
+   "date": "2025-05-18",
+   "description": "REV-UPI/872622177879/ZEPTO/REFUND FOR CANCELLED ORDER",
+   "debit": null,
+   "credit": 640.0,
+   "balance": 128061.09,
+   "category": "refund"
+  },
+  {
+   "date": "2025-05-21",
+   "description": "UPI/DR/195537215397/UBER INDIA/UTIB/uber.rides@axisbank/Trip",
+   "debit": 298.83,
+   "credit": null,
+   "balance": 127762.26,
+   "category": "travel"
+  },
+  {
+   "date": "2025-05-23",
+   "description": "UPI/DR/848531941300/ZOMATO/YESB/zomato@ybl/Payment for order",
+   "debit": 875.78,
+   "credit": null,
+   "balance": 126886.48,
+   "category": "food"
+  },
+  {
+   "date": "2025-05-23",
+   "description": "POS 512345XXXXXX4321 INDIAN OIL PETROL PUMP ANDHERI",
+   "debit": 1837.4,
+   "credit": null,
+   "balance": 125049.08,
+   "category": "fuel"
+  },
+  {
+   "date": "2025-05-24",
+   "description": "UPI/DR/308860915248/ZOMATO/YESB/zomato@ybl/Payment for order",
+   "debit": 547.44,
+   "credit": null,
+   "balance": 124501.64,
+   "category": "food"
+  },
+  {
+   "date": "2025-05-26",
+   "description": "UPI/DR/592451959264/SWIGGY/YESB/swiggy@ybl/Payment for order",
+   "debit": 579.17,
+   "credit": null,
+   "balance": 123922.47,
+   "category": "food"
+  },
+  {
+   "date": "2025-05-28",
+   "description": "UPI/DR/646960623079/ZOMATO/YESB/zomato@ybl/Payment for order",
+   "debit": 939.92,
+   "credit": null,
+   "balance": 122982.55,
+   "category": "food"
+  },
+  {
+   "date": "2025-06-01",
+   "description": "NEFT CR-CITI0000001-ORBITAL SYSTEMS PVT LTD-SALARY JUN 2025",
+   "debit": null,
+   "credit": 92500.0,
+   "balance": 215482.55,
+   "category": "salary"
+  },
+  {
+   "date": "2025-06-02",
+   "description": "UPI/DR/053318123420/RAMESH KUMAR/SBIN/rameshk@oksbi/Rent Jun",
+   "debit": 22000.0,
+   "credit": null,
+   "balance": 193482.55,
+   "category": "transfer_out"
+  },
+  {
+   "date": "2025-06-05",
+   "description": "ACH D- BRIGHTPATH FINANCE LTD-7960434988",
+   "debit": 8450.0,
+   "credit": null,
+   "balance": 185032.55,
+   "category": "loan"
+  },
+  {
+   "date": "2025-06-05",
+   "description": "IMPS-841718615981-ROHAN DESAI-HDFC-XXXXXXX9072-DINNER SPLIT",
+   "debit": 750.0,
+   "credit": null,
+   "balance": 184282.55,
+   "category": "transfer_out"
+  },
+  {
+   "date": "2025-06-07",
+   "description": "ACH D- KUVERA MUTUAL FUND SIP-607500201",
+   "debit": 5000.0,
+   "credit": null,
+   "balance": 179282.55,
+   "category": "investment"
+  },
+  {
+   "date": "2025-06-07",
+   "description": "IMPS-806192057986-ANANYA RAO-HDFC-XXXXXXX0960-DINNER SPLIT",
+   "debit": 1200.0,
+   "credit": null,
+   "balance": 178082.55,
+   "category": "transfer_out"
+  },
+  {
+   "date": "2025-06-09",
+   "description": "POS 512345XXXXXX4321 NETFLIX.COM MUMBAI",
+   "debit": 649.0,
+   "credit": null,
+   "balance": 177433.55,
+   "category": "entertainment"
+  },
+  {
+   "date": "2025-06-11",
+   "description": "BIL/BPAY/017018875251/TATA POWER MUMBAI/ELECTRICITY",
+   "debit": 1821.55,
+   "credit": null,
+   "balance": 175612.0,
+   "category": "utilities"
+  },
+  {
+   "date": "2025-06-13",
+   "description": "UPI/DR/586168362699/ZOMATO/YESB/zomato@ybl/Payment for order",
+   "debit": 698.87,
+   "credit": null,
+   "balance": 174913.13,
+   "category": "food"
+  },
+  {
+   "date": "2025-06-14",
+   "description": "ATM WDL ATM CASH 6945 ANDHERI EAST MUMBAI",
+   "debit": 5000.0,
+   "credit": null,
+   "balance": 169913.13,
+   "category": "cash_withdrawal"
+  },
+  {
+   "date": "2025-06-15",
+   "description": "POS 512345XXXXXX4321 INDIAN OIL PETROL PUMP ANDHERI",
+   "debit": 2781.02,
+   "credit": null,
+   "balance": 167132.11,
+   "category": "fuel"
+  },
+  {
+   "date": "2025-06-21",
+   "description": "UPI/DR/566703384916/SHREE GANESH KIRANA STORE/ICIC/shree@icici/groceries",
+   "debit": 771.33,
+   "credit": null,
+   "balance": 166360.78,
+   "category": "groceries"
+  },
+  {
+   "date": "2025-06-25",
+   "description": "UPI/DR/191620510174/SHREE GANESH KIRANA STORE/ICIC/shree@icici/groceries",
+   "debit": 1516.06,
+   "credit": null,
+   "balance": 164844.72,
+   "category": "groceries"
+  },
+  {
+   "date": "2025-06-26",
+   "description": "UPI/DR/181808592132/SWIGGY/YESB/swiggy@ybl/Payment for order",
+   "debit": 677.4,
+   "credit": null,
+   "balance": 164167.32,
+   "category": "food"
+  },
+  {
+   "date": "2025-06-30",
+   "description": "CREDIT INTEREST CAPITALISED",
+   "debit": null,
+   "credit": 412.0,
+   "balance": 164579.32,
+   "category": "interest"
+  },
+  {
+   "date": "2025-06-30",
+   "description": "SMS CHARGES FOR APR-JUN 2025 QTR",
+   "debit": 17.7,
+   "credit": null,
+   "balance": 164561.62,
+   "category": "charges"
+  }
+ ]
+}

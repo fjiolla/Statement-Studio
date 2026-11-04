@@ -1,0 +1,13 @@
+{
+  "gold_set": "161 hand-labelled narrations from 8 real Indian bank & card statements (HDFC, ICICI, SBI, Union, IndusInd, Indian Bank)",
+  "hybrid_accuracy": 0.9752,
+  "ml_only_accuracy": 0.7702,
+  "flagged_for_review": 14,
+  "note": "The gold set was used for error analysis while writing rules, so treat it as a regression benchmark. The synthetic hold-out (unseen names) is the blind ML score.",
+  "ml_holdout": {
+    "description": "Synthetic narrations built from person names and business stems never seen in training",
+    "examples": 4000,
+    "accuracy": 0.8982,
+    "macro_f1": 0.9055
+  }
+}

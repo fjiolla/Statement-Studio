@@ -1,0 +1,16 @@
+# Runtime dependencies (versions the test suite passes with)
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+python-multipart==0.0.33
+pydantic==2.14.2
+pymupdf==2.1
+pikepdf==10.17.0
+rapidocr==3.10.0
+onnxruntime==1.31.1
+opencv-python-headless==5.0.0.93
+numpy==2.5.4
+scikit-learn==1.9.1   # must match the version that trained app/classify/model/classifier.joblib
+scipy==1.18.1
+joblib==1.6.0
+xlsxwriter==3.3.1
+pytesseract==0.3.13
