@@ -1,0 +1,15 @@
+# Space runtime: gradio (6.31.0) is pre-installed by Hugging Face and brings its own
+# fastapi / uvicorn / pydantic, so those are not pinned here.
+spaces
+python-multipart
+pymupdf==2.1
+pikepdf==10.17.0
+rapidocr==3.10.0
+onnxruntime==1.31.1
+opencv-python-headless==5.0.0.93
+numpy==2.5.4
+scikit-learn==1.9.1   # must match the version that trained classifier.joblib
+scipy==1.18.1
+joblib==1.6.0
+xlsxwriter==3.3.1
+pytesseract==0.3.13

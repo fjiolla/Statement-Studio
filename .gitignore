@@ -18,3 +18,4 @@ out/
 .env*.local
 .env
 .next-preview/
+deploy/huggingface/bundle/
